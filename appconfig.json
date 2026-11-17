@@ -1,0 +1,22 @@
+{
+  "top_news_count": 10,
+  "news_topics": [
+    "agentic AI",
+    "google antigravity",
+    "USA"
+  ],
+  "stocks": [
+    {
+      "name": "Société Générale",
+      "symbol": "GLE.PA"
+    },
+    {
+      "name": "Airbus",
+      "symbol": "AIR.PA"
+    },
+    {
+      "name": "Air Liquide",
+      "symbol": "AI.PA"
+    }
+  ]
+}
